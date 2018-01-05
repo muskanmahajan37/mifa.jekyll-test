@@ -1,4 +1,1 @@
-remote_theme: "phodal/mifa.jekyll"
-
-plugins:
-  - jekyll-remote-theme
+remote_theme: jekyll/minima
